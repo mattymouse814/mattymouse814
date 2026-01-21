@@ -4,7 +4,7 @@ I’m a **Senior DevOps & Platform Engineer** with 5+ years of experience buildi
 
 ---
 
-### 🛠 What I’m working with:
+### 🛠 My Toolset:
 
 * **Cloud:** AWS ☁️ & Azure 🟦
 * **IaC:** Terraform 🏗️
