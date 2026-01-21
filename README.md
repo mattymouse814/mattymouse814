@@ -9,8 +9,8 @@ I’m a **Senior DevOps & Platform Engineer** with 5+ years of experience buildi
 * **Cloud:** AWS ☁️ & Azure 🟦
 * **IaC:** Terraform 🏗️
 * **Orchestration:** Kubernetes & Docker 🐳
-* **CI/CD:** GitHub Actions (expert level) & Automation pipelines 🚀
-* **Core:** Linux Administration & Deep-dive Networking 🐧
+* **CI/CD:** GitHub Actions (expert level) 🚀
+* **Core:** Linux, Windows Administration & Networking 🐧
 * **Scripting:** Bash, Powershell, Python
 
 ---
