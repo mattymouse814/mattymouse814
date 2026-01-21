@@ -1,4 +1,4 @@
-# Hello I am Matt 
+# Hello, Thank you for visiting my Github. My name is Matt 
 
 I’m a **Senior DevOps & Platform Engineer** with 5+ years of experience building and scaling infrastructure
 
