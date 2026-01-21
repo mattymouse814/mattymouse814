@@ -12,6 +12,7 @@ I’m a **Senior DevOps & Platform Engineer** with 5+ years of experience buildi
 * **CI/CD:** GitHub Actions (expert level) 🚀
 * **Core:** Linux, Windows Administration & Networking 🐧
 * **Scripting:** Bash, Powershell, Python 🐍
+* **Monitoring:** Prometheus, Grafana, also infrastructure monitoring such as SIEMs, cloudwatch alarms
 
 ---
 
