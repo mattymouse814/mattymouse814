@@ -1,4 +1,4 @@
-# Hello, Thank you for visiting my Github. My name is Matt 
+# Sup 
 
 I’m a **Senior DevOps & Platform Engineer** with 5+ years of experience building and scaling infrastructure
 
@@ -16,6 +16,3 @@ I’m a **Senior DevOps & Platform Engineer** with 5+ years of experience buildi
 
 ---
 
-### 📊 Github Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mattymouse814&show_icons=true&theme=tokyonight)
